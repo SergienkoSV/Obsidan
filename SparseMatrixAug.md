@@ -1,3 +1,4 @@
+# Sparse Matrix Augmentation Methods 
 1. Random Sampling: This method involves selecting a random subset of the existing sparse matrices and adding them to the dataset. This is a simple yet effective augmentation technique that can help increase the size of the training set without introducing significant distortions or noise.
 
 Proc: Select a random subset of the existing sparse matrices based on a certain probability distribution.
